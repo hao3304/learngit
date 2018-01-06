@@ -2,8 +2,8 @@ function test() {
     console.log("hello world");
 }
 
-test1();
-test1();
+test();
+test();
 
 function test1(){
     console.log("xxxx")
