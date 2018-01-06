@@ -245,7 +245,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2574000" />
+=======
+    <option name="totallyTimeSpent" value="2616000" />
+>>>>>>> feature-test2
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -336,6 +340,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -352,5 +357,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> feature-test2
   </component>
 </project>
