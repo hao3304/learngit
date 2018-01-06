@@ -3,7 +3,7 @@ function test() {
 }
 
 test1();
-test();
+test1();
 
 function test1(){
     console.log("xxxx")
